@@ -1,1 +1,1 @@
-# BioDockerProject
+# BioInformatics Docker Project
